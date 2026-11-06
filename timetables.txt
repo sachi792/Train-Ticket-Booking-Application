@@ -1,0 +1,6 @@
+T101,Yal Devi Express,Colombo-Kankasanthure,05:45 AM,50,4
+T102,Uttara Devi Intercity,Colombo-Kankasanthure,11:50 AM,40,0
+T201,Ruhunu Kumari Express,Colombo-Galle,06:30 AM,60,2
+T202,Galu Kumari Express,Colombo-Galle,02:00 PM,50,0
+T301,Podi Menike Express,Colombo-Kandy,05:55 AM,50,0
+T302,Udarata Menike Express,Colombo-Kandy,08:30 AM,45,0
